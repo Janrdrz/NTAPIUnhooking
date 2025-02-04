@@ -1,0 +1,7 @@
+C:\Offensive\Scripts\FinalVersions\NTAPIUnhooking\NTAPIUnhooking\bin\x64\Release\NTAPIUnhooking.exe.config
+C:\Offensive\Scripts\FinalVersions\NTAPIUnhooking\NTAPIUnhooking\bin\x64\Release\NTAPIUnhooking.exe
+C:\Offensive\Scripts\FinalVersions\NTAPIUnhooking\NTAPIUnhooking\bin\x64\Release\NTAPIUnhooking.pdb
+C:\Offensive\Scripts\FinalVersions\NTAPIUnhooking\NTAPIUnhooking\obj\x64\Release\NTAPIUnhooking.csproj.AssemblyReference.cache
+C:\Offensive\Scripts\FinalVersions\NTAPIUnhooking\NTAPIUnhooking\obj\x64\Release\NTAPIUnhooking.csproj.CoreCompileInputs.cache
+C:\Offensive\Scripts\FinalVersions\NTAPIUnhooking\NTAPIUnhooking\obj\x64\Release\NTAPIUnhooking.exe
+C:\Offensive\Scripts\FinalVersions\NTAPIUnhooking\NTAPIUnhooking\obj\x64\Release\NTAPIUnhooking.pdb
